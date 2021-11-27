@@ -1,0 +1,8 @@
+#+TITLE: Ini adalah
+
+* Pengantar
+ini adalah dokumen yang digunakan untuk mengetest penggunaan petalinux karena kasus uboot
+untuk myir zturn tidak bekerja yang bagus.
+* Timeline
+** Menginstall versi 2021.2
+Ternyata tidak seperti yang aku bayangkan.
